@@ -2,5 +2,5 @@
 
 **List of lessons:**
 
-- 1. Introduction (no tasks in this lesson)
-- 2. Hello world
+- 1 Introduction (no tasks in this lesson)
+- 2 Hello world
