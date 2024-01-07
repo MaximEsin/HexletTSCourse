@@ -7,3 +7,4 @@
 - 3 TypeScript
 - 4 Variables
 - 5 Named functions
+- 6 Anonymous functions
