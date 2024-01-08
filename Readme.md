@@ -16,3 +16,4 @@
 - 12 Modules
 - 13 Function as parameter
 - 14 Optional parameters in callback
+- 15 Void
