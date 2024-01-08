@@ -11,3 +11,4 @@
 - 7 Arrays
 - 8 Objects
 - 9 Enums
+- 10 Type aliases
