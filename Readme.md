@@ -12,3 +12,4 @@
 - 8 Objects
 - 9 Enums
 - 10 Type aliases
+- 11 Any
