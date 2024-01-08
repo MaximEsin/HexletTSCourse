@@ -9,3 +9,4 @@
 - 5 Named functions
 - 6 Anonymous functions
 - 7 Arrays
+- 8 Objects
