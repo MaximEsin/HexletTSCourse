@@ -24,3 +24,4 @@
 - 20 Funbction overload
 - 21 Type narrowing
 - 22 Type annotations
+- 23 Muli dimensional arrays
