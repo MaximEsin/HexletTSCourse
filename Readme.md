@@ -22,3 +22,4 @@
 - 18 Destructuring
 - 19 Rest spread
 - 20 Funbction overload
+- 21 Type narrowing
