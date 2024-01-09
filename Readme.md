@@ -23,3 +23,4 @@
 - 19 Rest spread
 - 20 Funbction overload
 - 21 Type narrowing
+- 22 Type annotations
