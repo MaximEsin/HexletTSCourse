@@ -34,3 +34,4 @@
 - 30 Intersection types
 - 31 Assignability
 - 32 Type hierarchy
+- 33 Structural typing
