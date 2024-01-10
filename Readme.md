@@ -32,3 +32,4 @@
 - 28 Nullable
 - 29 Literal types
 - 30 Intersection types
+- 31 Assignability
