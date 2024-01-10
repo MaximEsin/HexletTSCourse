@@ -27,3 +27,4 @@
 - 23 Muli dimensional arrays
 - 24 Readonly arrays
 - 25 Tuples
+- 26 Type as sets
