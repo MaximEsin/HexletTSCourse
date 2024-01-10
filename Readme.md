@@ -26,3 +26,4 @@
 - 22 Type annotations
 - 23 Muli dimensional arrays
 - 24 Readonly arrays
+- 25 Tuples
