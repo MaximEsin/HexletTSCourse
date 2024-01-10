@@ -33,3 +33,4 @@
 - 29 Literal types
 - 30 Intersection types
 - 31 Assignability
+- 32 Type hierarchy
