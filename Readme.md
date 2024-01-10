@@ -30,3 +30,4 @@
 - 26 Type as sets
 - 27 Union-types
 - 28 Nullable
+- 29 Literal types
