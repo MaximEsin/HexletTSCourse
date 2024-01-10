@@ -35,3 +35,4 @@
 - 31 Assignability
 - 32 Type hierarchy
 - 33 Structural typing
+- 34 Variability
