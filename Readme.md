@@ -28,3 +28,4 @@
 - 24 Readonly arrays
 - 25 Tuples
 - 26 Type as sets
+- 27 Union-types
